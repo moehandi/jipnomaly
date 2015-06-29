@@ -1,0 +1,8 @@
+#Tue Feb 05 12:08:57 WIT 2013
+passLinux=
+userMysql=
+jdbcUrl=jdbc\:mysql\://localhost\:3306/iptables_db
+dbMysql=iptables_db
+userLinux=root
+tableMysql=rule
+PassMysql=
